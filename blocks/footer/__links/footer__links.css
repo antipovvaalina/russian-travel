@@ -1,0 +1,5 @@
+@media (max-width: 721px) {
+    .footer__links {
+        flex-direction: column;
+    }
+}

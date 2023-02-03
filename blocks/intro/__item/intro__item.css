@@ -1,0 +1,11 @@
+.intro__item {
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    font-style: normal;
+}
+
+.intro__item_weight_bold {
+    font-weight: bold;
+}
