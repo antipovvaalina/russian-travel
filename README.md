@@ -5,4 +5,4 @@
 Проект содержит:
 html, css, Grid Layout, медиа-зопросы и Flexbox-вёрстку.
 
-Ссылка на GitHub Pages:
+Ссылка на GitHub Pages: https://antipovvaalina.github.io/russian-travel/

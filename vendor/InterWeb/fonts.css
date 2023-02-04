@@ -2,7 +2,7 @@
     font-family: "Inter";
     src: url("./Inter-Black.woff") format("woff");
     src: url("./Inter-Black.woff2") format("woff2");
-    font-weight: black;
+    font-weight: 900;
 }
 
 @font-face {

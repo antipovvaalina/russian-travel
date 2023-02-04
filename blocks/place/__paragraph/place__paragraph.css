@@ -1,14 +1,20 @@
 .place__paragraph {
     font-family: 'Inter', Arial, Helvetica, sans-serif;
     margin-bottom: 26px;
+    margin-top: 0;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
     line-height: 163%;
 }
 
+.place__paragraph:last-child {
+    margin-bottom: 0;
+}
+
 @media (max-width: 768px) {
     .place__paragraph {
+        max-width: 352px;
         font-size: 16px;
         line-height: 26px;
         margin-bottom: 25px;
@@ -19,6 +25,7 @@
     .place__paragraph {
         text-align: inherit;
         max-width: 596px;
+        margin-top: 32px;
     }
 }
 
@@ -26,5 +33,6 @@
     .place__paragraph {
         max-width: 288px;
         margin-left: 16px;
+        margin-top: 32px;
     }
 }
