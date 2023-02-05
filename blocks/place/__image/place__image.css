@@ -2,6 +2,7 @@
     max-width: 460px;
     max-height: 460px;
     object-fit: cover;
+    width: 100%;
 }
 
 @media (max-width: 1024px) {
@@ -28,8 +29,7 @@
 
 @media (max-width: 635px) {
     .place__image {
-        max-width: 320px;
-        max-height: 320px;
+        display: block;
         margin: 0 auto;
     }
 }

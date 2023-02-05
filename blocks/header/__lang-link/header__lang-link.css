@@ -18,10 +18,6 @@
 }
 
 
-.header__lang-link:last-child {
-    text-decoration: none;
-}
-
 .header__lang-link:hover {
     color: #E5E5E5;
 }
